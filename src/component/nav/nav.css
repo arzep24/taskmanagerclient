@@ -1,0 +1,23 @@
+.navbar
+{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 1rem ;
+    justify-content: center;
+}
+
+.navTitle
+{
+    display: none;
+}
+.navUserContainer
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navUsername
+{
+    font-size: 1.5rem;
+}

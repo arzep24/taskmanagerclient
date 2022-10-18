@@ -1,0 +1,17 @@
+.classicButton
+{
+    background-color: #c4d4f4;
+    border-radius: 30px;
+    width: 6.25rem;
+    height: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 0 1.2em;
+    color: #000;
+    transition: ease 0.25s;
+}
+.classicButton:hover
+{
+    background-color: #6192f3;
+    color: #fff;
+}

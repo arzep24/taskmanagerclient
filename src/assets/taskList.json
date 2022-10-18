@@ -1,0 +1,29 @@
+{ 
+    "user00":
+    [
+        {
+            "id":"T001",
+            "tags":["chores","home"],
+            "title":"Do Laundry",
+            "description":"Do whites and colour in two separate washes",
+            "completed":false,
+            "deadline":null
+        },
+        {
+            "id":"T002",
+            "tags":["personal","home"],
+            "title":"Make a List",
+            "description":"Make a list of the activities I need to list",
+            "completed":true,
+            "deadline":null
+        },
+        {
+            "id":"T003",
+            "tags":["chores","home"],
+            "title":"Take Dog to Walk",
+            "description":"Take the dog to the village park",
+            "completed":false,
+            "deadline":"10/15/22"
+        }
+    ]
+}                                                                                                       

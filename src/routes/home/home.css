@@ -1,0 +1,19 @@
+.homeButton
+{
+    width: 16rem;
+    height: 4rem;
+    border-radius: 25px;
+    font-size: 2rem;
+    background-color: #437BE7;
+    color: #f0ffff;
+}
+.homeButton:hover
+{
+    font-size: 2.1rem;
+    background-color: #6C97EB;
+    color: #FFFFFF;
+}
+.homeParagraph
+{
+    padding: 0 1rem;
+}
